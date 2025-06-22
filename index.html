@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get User Location</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .warning {
+            color: red;
+            padding: 10px;
+            font-size: 14px;
+        }
+        a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 10px;
+            background-color: #0078A8;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #005f80;
+        }
+    </style>
+</head>
+<body>
+    <p class="warning">กรุณารอสักครู่ขณะที่เราดึงตำแหน่งของคุณ หรืออนุญาตการเข้าถึงตำแหน่งเมื่อเบราว์เซอร์ถาม</p>
+    <p>หากไม่ต้องการให้ตำแหน่ง คลิก <a href="https://sites.google.com/view/cctv-test">กลับไปหน้าแผนที่</a></p>
+    <script>
+        window.onload = function() {
+            console.log("เริ่มเรียก Geolocation อัตโนมัติ");
+            if (navigator.geolocation) {
+                console.log("Geolocation รองรับในเบราว์เซอร์");
+                navigator.geolocation.getCurrentPosition(
+                    function(position) {
+                        var lat = position.coords.latitude;
+                        var lng = position.coords.longitude;
+                        console.log("ตำแหน่งผู้ใช้: ", lat, lng);
+                        // ส่งตำแหน่งกลับไปยัง Google Sites
+                        window.location.href = "https://sites.google.com/view/cctv-test?lat=" + lat + "&lng=" + lng;
+                    },
+                    function(error) {
+                        console.error("ข้อผิดพลาด geolocation: ", error.message);
+                        alert("ไม่สามารถดึงตำแหน่งของคุณได้: " + error.message + "\nคุณจะถูกนำกลับไปยังหน้าแผนที่");
+                        // เปลี่ยนเส้นทางกลับ Google Sites โดยไม่มีพิกัด
+                        window.location.href = "https://sites.google.com/view/cctv-test";
+                    },
+                    {
+                        enableHighAccuracy: true,
+                        timeout: 5000,
+                        maximumAge: 0
+                    }
+                );
+            } else {
+                console.log("Geolocation ไม่รองรับในเบราว์เซอร์");
+                alert("เบราว์เซอร์ของคุณไม่รองรับการระบุตำแหน่ง\nคุณจะถูกนำกลับไปยังหน้าแผนที่");
+                window.location.href = "https://sites.google.com/view/cctv-test";
+            }
+        };
+    </script>
+</body>
+</html>
