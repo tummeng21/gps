@@ -1,43 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>True Explore Sci</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta content="IE=edge" http-equiv="X-UA-Compatible">
-<script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
-<script> jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
-</script>
-<div id="player"></div>
-<script>
-    var playerInstance = jwplayer("player");
+        <title>True Explore Sci</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
+        <script>jwplayer.key = 'XSuP4qM/+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+        <style>
+            body {
+                margin: 0;
+            }
+            #player {
+                width: 100%;
+                max-width: 1280px; /* Optional: จำกัดความกว้างสูงสุด */
+                margin: 0 auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="player"></div>
+        <script>
+            var playerInstance = jwplayer("player");
+            let lang = navigator.language || 1; // Default to audio track 1 if language not detected
 
-    playerInstance.setup({
+            playerInstance.setup({
+                playlist: [{
+                    "image": "https://dl.dropbox.com/scl/fi/563mscujyrmynwb03qvwtp/wandering-oldman-logo.png?rlkey=a6v56e1rgt96luwlzqe2ofbfi&dl=0",
+                    "sources": [
+                        {
+                            "default": true,
+                            "type": "m3u8",
+                            "file": "https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueexploresci.m3u8",
+                            "label": "1"
+                        }
+                    ]
+                }],
+                logo: {
+                    file: "https://dl.dropbox.com/scl/fi/2j77jf0bvljski63r43es/small1.png?rlkey=kcyqs5hnpvkoda0vss4rkooo0&dl=0",
+                    position: "bottom-right"
+                },
+                width: "100%",
+                aspectratio: "16:9",
+                mute: false,
+                autostart: true,
+                cast: {}
+            });
 
-        playlist: [{
-"image": "https://dl.dropbox.com/scl/fi/563mscujyrmynb03qvwtp/wandering-oldman-logo.png?rlkey=a6v56e1rgt96luwlzqe2ofbfi&dl=0",
-"sources": [
-{
-"default": true,
-"type": "m3u8",
-"file": 'https://github.com/tummeng21/m3u8/raw/refs/heads/main/trueexploresci.m3u8',
-"drm": {
-},
-"label": "1"
-}
-]
-}],
-logo: { file: "https://dl.dropbox.com/scl/fi/2j77jf0bvljski63r43es/small1.png?rlkey=kcyqs5hnpvkoda0vss4rkooo0&dl=0", position: 'bottom-right' },
- width: "100%",
-        height: "100%",
-        aspectratio: "16:9",
-        mute: false,
-        autostart: true,
-        cast: {},
-    });
-    if (getLang == "") {
-   lang = 1;
-  }
-  jwplayer().on('play', function(e) {
-    jwplayer().setCurrentAudioTrack(lang);
-  });
-</script>
+            playerInstance.on('play', function(e) {
+                if (playerInstance.getAudioTracks().length > lang) {
+                    playerInstance.setCurrentAudioTrack(lang);
+                }
+            });
+        </script>
+    </body>
+</html>
