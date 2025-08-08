@@ -1,17 +1,17 @@
-#EXTM3U url="https://raw.githubusercontent.com/tummeng21/gps/master/test.w3u"
+#EXTM3U url="https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###สวัสดีชาวโลก###
 
 #EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PrimeMonth2024_IconHome.png" 
-#EXTINF:-1 " tvg-id="" tvg-logo="https://img2.pic.in.th/pic/Screenshot_20250719-143451_FUCKIDHDPLUS.jpg" group-title="ℹ️| FUCKID", 🛠️⚙️",{แอหใหม่กูสร้างมาจะเป็น ปี ละ 555 แต่ลิงค์ m3u กูมึงหาเจอไหมแค่นั้น}
+#EXTINF:-1  tvg-id="" tvg-logo="https://img2.pic.in.th/pic/Screenshot_20250719-143451_FUCKIDHDPLUS.jpg" group-title="ℹ️| FUCKID", 🛠️⚙️",{แอหใหม่กูสร้างมาจะเป็น ปี ละ 555 แต่ลิงค์ m3u กูมึงหาเจอไหมแค่นั้น}
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
-#EXTINF:-1 " tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Screenshot_20250719-143824_FUCKIDHDPLUS.jpg" group-title="ℹ️| FUCKID", 🛠️⚙️แอฟใหม่กูสร้างมานานแล้ว แต่กูไม้อยากแจก เพราะพวกมึงไปแงะ ของคนอื่นเขามาขาย
+#EXTINF:-1  tvg-id="" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Screenshot_20250719-143824_FUCKIDHDPLUS.jpg" group-title="ℹ️| FUCKID", 🛠️⚙️แอฟใหม่กูสร้างมานานแล้ว แต่กูไม้อยากแจก เพราะพวกมึงไปแงะ ของคนอื่นเขามาขาย
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
-#EXTINF:-1 " tvg-id="" tvg-logo="https://img2.pic.in.th/pic/Screenshot_20250719-143840_FUCKIDHDPLUS.jpg" group-title="ℹ️| FUCKID", ถ้าพวกมึงมีความสามารถในการหาก็เชิญ
+#EXTINF:-1  tvg-id="" tvg-logo="https://img2.pic.in.th/pic/Screenshot_20250719-143840_FUCKIDHDPLUS.jpg" group-title="ℹ️| FUCKID", ถ้าพวกมึงมีความสามารถในการหาก็เชิญ
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
 
@@ -21,33 +21,28 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
-https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax02.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-https://stream2.aws-live-streaming.com/bbs/monomax2/playlist.m3u8
-https://219.livedoomovies.com:4431/Monomax_Live_1HD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax03.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-https://stream2.aws-live-streaming.com/bbs/monomax3/playlist.m3u8
-https://www.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax04.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-https://www.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/th-monomax05.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
-https://www.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
 #EXTVLCOPT:http-user-agent=http://45.144.165.223/
@@ -282,8 +277,8 @@ https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
 https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports3thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",Bein Sports 3-livedoomovies
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.comฟ
-#https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
 #EXTINF:-1 tvg-id="3BB Sports One.th" tvg-name="3BB Sports One.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="📺 ช่องกีฬา", 3BB Sport One
