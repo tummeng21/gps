@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sunset_render_with_Terragen.jpg/960px-Sunset_render_with_Terragen.jpg" group-title="Relax",Relax1
 http://tv.greatstar.me:80/play/live.php?mac=00:1a:79:a7:8d:94&stream=1502987&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sunset_render_with_Terragen.jpg/960px-Sunset_render_with_Terragen.jpg" group-title="Relax",Relax2
@@ -10,9 +9,6 @@ http://tvip.zeroonemac.xyz:8080/play/live.php?mac=00:1A:79:19:29:51&stream=66022
 http://tv.greatstar.me:80/play/live.php?mac=00:1a:79:a7:8d:94&stream=1502986&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sunset_render_with_Terragen.jpg/960px-Sunset_render_with_Terragen.jpg" group-title="Relax",Relax5
 http://tv.greatstar.me:80/play/live.php?mac=00:1a:79:a7:8d:94&stream=1502989&extension=ts
-
-
-
 #EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax1/playlist.m3u8
@@ -78,9 +74,6 @@ https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36.
 #EXTVLCOPT:http-referrer=https://www.livedoomovies.com
 https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAxjEVzuI58ycRWQI0P0H4UwSGMfQj-Ij8g&s" group-title="Event",sport1​
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/dklsport1/playlist.m3u8
