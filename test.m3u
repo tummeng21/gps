@@ -122,3 +122,7 @@ https://dolive.thaim3u.com/NbOZIN5zPq6G0duAFojRdmtbVh8GVlBi/siam-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/164/164596.png" group-title="Event",Siam8
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://dolive.thaim3u.com/NbOZIN5zPq6G0duAFojRdmtbVh8GVlBi/siam-8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm1/playlist.m3u8
