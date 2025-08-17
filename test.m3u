@@ -123,8 +123,25 @@ https://dolive.thaim3u.com/NbOZIN5zPq6G0duAFojRdmtbVh8GVlBi/siam-7/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
 https://dolive.thaim3u.com/NbOZIN5zPq6G0duAFojRdmtbVh8GVlBi/siam-8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1724166670.png",trueexplorelife
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
-https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueexplorelife/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36.
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
+https://sport.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36.
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
+https://sport.livedoomovies.com:4432/Monomax_Live_2HD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36.
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
+https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36.
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
+https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36.
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
+https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
 
 
