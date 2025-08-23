@@ -6,9 +6,9 @@ https://cdn1.googlecdn.live/ballsod24hrs/monomax1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax2
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax3
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/monomax3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax3 (test)
+#EXTVLCOPT:http-referrer=https://dooballplus2.live/
+https://cdnsv1.bunnycdncloud.com/dooballplus/monomax3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="Event",Monomax4
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax4/playlist.m3u8
@@ -433,5 +433,6 @@ https://playid.vercel.app/sports/max8.m3u8
 	
 #EXTINF:-1 tvg-logo="https://img.monomax.me/ta7Z6ncxWUlAa8isqs7EsC3iGCU=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-v-sd.png" group-title="ช่องกีฬาทั่วไป",MONOMAX-09
 https://playid.vercel.app/sports/max9.m3u8
+
 
 
