@@ -222,10 +222,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/bein9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdn2.aws-live-streaming.com/lsmscore/bein10/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",BeinSportHD 07
-#EXTVLCOPT:http-referrer=https://99dooball.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://cdn2.aws-live-streaming.com/lsmscore/bein7/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",true sport 1
 #EXTVLCOPT:http-referrer=https://99dooball.live/
