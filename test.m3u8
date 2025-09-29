@@ -11,14 +11,14 @@
 
 {"name":"FIFA Live-A",
 "image":"https://img2.imgbiz.com/imgbiz/club.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/trt-spor/playlist.m3u8?wmsAuth=",
+"url": "https://cdn1.googlecdnforstreaming.live/live/trt-spor/playlist.m3u8",
 "referer": "https://warpdooball.net/",
 "playInNatPlayer": "true"},
 
-{"name":"FIFA Live-B",
+{"name":"FIFA test",
 "image":"https://img2.imgbiz.com/imgbiz/club.png",
-"url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-3/chunks.m3u8",
-"referer": "https://doolive4k.tv/",
+"url": "https://cdn1.googlecdnforstreaming.live/live/dklsport1/playlist.m3u8",
+"referer": "https://warpdooball.net/",
 "playInNatPlayer":"true"},
 
 {"name":"FIFA Live-C",
