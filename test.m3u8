@@ -1,1 +1,61 @@
+{
+		"name": "Ð∞𝐅𝐫𝐞𝐞",
+		"author": "Ð∞𝐅𝐫𝐞𝐞",
+		"image":"https://cdn.imgchest.com/files/4apc5v8la64.gif",
+                "url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Doo-Free.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=3v6a0m6o&dl=0",
+	        "info": "Ð∞𝐅𝐫𝐞𝐞",
+ 
+				"stations": [
 
+
+{"name":"monomax1",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://ball67.com/channels/monomax1",
+"referer": "https://ball67.com/",
+"userAgent":"exo_player", 
+"playInNatPlayer": "true"},
+
+
+
+{"name":"monomax2",
+"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
+"url": "https://ball67.com/channels/monomax2",
+"referer": "https://ball67.com/",
+"userAgent":"exo_player", 
+"playInNatPlayer": "true"},
+
+
+
+{"name": "bein1",
+"image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
+"url":"https://ball67.com/channels/bein1",
+"referer": "https://ball67.com/",
+"userAgent":"exo_player", 
+"playInNatPlayer": "true"},
+
+{"name": "bein2",
+"image": "https://cdn.imgchest.com/files/4gdcxjvzb54.png",
+"url":"https://ball67.com/channels/bein2",
+"referer": "https://ball67.com/",
+"userAgent":"exo_player", 
+"playInNatPlayer": "true"},
+
+{"name": "bein3",
+"image": "https://cdn.imgchest.com/files/4gdcxjvzb54.png",
+"url":"https://ball67.com/channels/bein3",
+"referer": "https://ball67.com/",
+"userAgent":"exo_player", 
+"playInNatPlayer": "true"},
+
+{"name":"Golf Channel🇹🇭",
+"image":"https://cdn.imgchest.com/files/7mmc96qoox7.png",
+"url":"https://ball67.com/channels/golfchannelthailand",
+"referer": "https://ball67.com/",
+"userAgent":"exo_player", 
+"playInNatPlayer": "true"},
+
+
+
+
+]
+}
