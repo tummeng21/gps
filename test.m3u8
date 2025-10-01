@@ -20,9 +20,9 @@
 "playInNatPlayer": "true"},
 
 
-{"name": "Apple TV 2",
+{"name": "Fifa+",
 "image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/atvp2/playlist.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/dklsport2/playlist.m3u8",
 "referer": "https://warpdooball.net/",
 "userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
