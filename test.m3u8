@@ -12,7 +12,7 @@
 "image":"https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 "url": "https://cdn1.googlecdnforstreaming.live/live/epl1_sd/chunks.m3u8",
 "referer": "https://warpdooball.net/",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 
@@ -21,7 +21,7 @@
 "image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
 "url": "https://cdn1.googlecdnforstreaming.live/live/epl2/chunks.m3u8",
 "referer": "https://warpdooball.net/",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 
@@ -30,49 +30,49 @@
 "image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/epl3/chunks.m3u8",
 "referer": "https://warpdooball.net/",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 {"name": "4",
 "image": "https://cdn.imgchest.com/files/4gdcxjvzb54.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/epl4/chunks.m3u8",
 "referer": "https://warpdooball.net",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 {"name": "5",
 "image": "https://cdn.imgchest.com/files/4gdcxjvzb54.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/epl5/chunks.m3u8",
 "referer": "https://warpdooball.net",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 {"name":"SiamSpots1-สำรอง",
 "image":"https://cdn.imgchest.com/files/7mmc96qoox7.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/siamsport1/chunks.m3u8",
 "referer": "https://warpdooball.net",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 {"name":"SiamSpots2-สำรอง",
 "image":"https://cdn.imgchest.com/files/7mmc96qoox7.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/siamsport2/chunks.m3u8",
 "referer": "https://warpdooball.net",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "playInNatPlayer": "true"},
 
 {"name":"SiamSpots3-สำรอง",
 "image":"https://cdn.imgchest.com/files/7mmc96qoox7.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/siamsport3/chunks.m3u8",
 "referer": "https://warpdooball.net",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 {"name":"SiamSpots4-สำรอง",
 "image":"https://cdn.imgchest.com/files/7mmc96qoox7.png",
 "url":"https://cdn1.googlecdnforstreaming.live/live/siamsport4/chunks.m3u8",
 "referer": "https://warpdooball.net",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","playInNatPlayer", 
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
 
