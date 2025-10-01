@@ -8,30 +8,46 @@
 				"stations": [
 
 
-{"name":"True Premier Football HD 1-A",
-"image":"https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/true-spotv-1/chunks.m3u8",
-"referer": "https://demo-live.siamzeed.com/",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
-"playInNatPlayer": "true"},
 
 
 
-{"name":"2",
-"image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
-"url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/true-spotv-2/chunks.m3u8",
-"referer": "https://demo-live.siamzeed.com/",
-"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
-"playInNatPlayer": "true"},
 
-
-
-{"name": "3",
+{"name": "test1",
 "image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/epl3/chunks.m3u8",
+"url":"https://cdn1.googlecdn.live/live/astro1/playlist.m3u8",
 "referer": "https://warpdooball.net/",
 "userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
+
+
+{"name": "test2",
+"image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
+"url":"https://cdn1.googlecdn.live/live/astro2/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name": "test3",
+"image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
+"url":"https://cdn1.googlecdn.live/live/astro3/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name": "test4",
+"image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
+"url":"https://cdn1.googlecdn.live/live/astroarenabola/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
+{"name": "test5",
+"image": "https://cdn.imgchest.com/files/4z9cvz8p2m7.png",
+"url":"https://cdn1.googlecdn.live/live/astroarenabola2/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
+"playInNatPlayer": "true"},
+
 
 {"name": "4",
 "image": "https://cdn.imgchest.com/files/4gdcxjvzb54.png",
