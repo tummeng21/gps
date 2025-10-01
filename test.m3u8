@@ -10,8 +10,8 @@
 
 {"name":"True Premier Football HD 1-A",
 "image":"https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
-"url": "https://cdn1.googlecdnforstreaming.live/live/epl1_sd/chunks.m3u8",
-"referer": "https://warpdooball.net/",
+"url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/true-spotv-1/chunks.m3u8",
+"referer": "https://demo-live.siamzeed.com/",
 "userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
@@ -19,8 +19,8 @@
 
 {"name":"2",
 "image":"https://cdn.imgchest.com/files/4z9cvz82927.png",
-"url": "https://cdn1.googlecdnforstreaming.live/live/epl2/chunks.m3u8",
-"referer": "https://warpdooball.net/",
+"url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/true-spotv-2/chunks.m3u8",
+"referer": "https://demo-live.siamzeed.com/",
 "userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
 "playInNatPlayer": "true"},
 
