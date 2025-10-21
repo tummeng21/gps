@@ -10,9 +10,9 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2144000,RESOLUTION=1920x1080,CODECS="avc1.4d402a,mp4a.40.2",VIDEO="1080p50",FRAME-RATE=50
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186484&extension=m3u8
 
-#EXTINF:-1 group-title="tdbvip" tvg-logo="https://dookeela.live/uploads/1685812254.png",3HD
-#EXTVLCOPT:http-referrer=https://dooball24hd.info/
-https://cdn1.googlecdn.live/db24hd/ch3hd/playlist.m3u8
+#EXTINF:-1 group-title="tdbvip" tvg-logo="https://dookeela.live/uploads/1685812254.png",spotv
+#EXTVLCOPT:http-referrer=https://dooballplus2.live/
+https://dooballplus2.live/spotv/
 #EXTINF:-1 group-title="tdbvip" tvg-logo="https://dookeela.live/uploads/1664574997.png",5HD
 #EXTVLCOPT:http-referrer=https://dooball24hd.info/
 https://cdn1.googlecdn.live/db24hd/ch5hd/playlist.m3u8
