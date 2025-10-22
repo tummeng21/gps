@@ -1,227 +1,170 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1479590&extension=ts&play_token=5bbOmdwY1d
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1479590&extension=ts&play_token=MfFbEZzwfk
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1479590&extension=ts&play_token=tzw66EwnJf
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1479590&extension=ts&play_token=JGjaRAwFDY
 
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 351
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:74:B3:7D&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 352
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:70:48:AA&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1500113&extension=ts&play_token=WXDy9FpDHM
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1500113&extension=ts&play_token=I7ob33evit
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 353
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:00:20:CB&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 355
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:28:D4:62&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 357
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:38:30:39&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470619&extension=ts&play_token=211FN37ito
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=569043&extension=ts&play_token=TW64sV2NQK
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470619&extension=ts&play_token=5V3tDHOIg7
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://b1g.uk:80/live/116048/116048/174943.ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 360
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:D2:9D:DD&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier1-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1032529&extension=ts&play_token=t3qvZOGBPY
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier1-FHD
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:4E:55:93&stream=625866&extension=ts&play_token=9S6aKYd1iG
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 361
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:57:99:9E&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 362
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:FB:63:2A&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 363
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:54:BC:07&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=565420&extension=ts&play_token=rPMm1b6Gi0
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1471381&extension=ts&play_token=Zg9466KjzU
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 363
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:C6:92:27&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1471381&extension=ts&play_token=ZlFMCBQQUC
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1471381&extension=ts&play_token=i2CaMmlu7l
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 364
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:55:E9:49&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 365
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:FA:00:FA&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458672&extension=ts&play_token=5Urn0qw2SW
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 366
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:53:38:B9&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 367
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:b8:ec:18&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=5531&extension=ts&play_token=wsToDbNC15
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=456106&extension=ts&play_token=d7UCnHGYaK
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 371
-http://bogdott.com:80/play/live.php?mac=00:1A:79:73:0c:7d&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 372
-http://bogdott.com:80/play/live.php?mac=00:1A:79:C3:C4:46&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 374
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:A3:8C:01&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 379
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:FB:1E:5F&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458669&extension=ts&play_token=CLhpsWY6EU
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 378
-http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:15:ea:0d&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=5535&extension=ts&play_token=AbFBtqONoz
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=456103&extension=ts&play_token=mX9uN8GIBr
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 380
-http://hottest.vip:80/play/live.php?mac=00:1A:79:6c:91:0c&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 381
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:32:C8:65&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="EPL/UCL",TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="EPL/UCL",TNTSport_Ultimate-4K_HDR
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=565418&extension=ts&play_token=gY8ypmcFYy
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 387
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:A2:1D:40&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 388
-http://23232.top:80/play/live.php?mac=A0:BB:3E:90:52:F4&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458678&extension=ts&play_token=FnOGgIhH86
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 389
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:7E:7B:0D&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 391
-http://23232.top:80/play/live.php?mac=00:1A:79:E4:E0:B3&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 392
-http://23232.top:80/play/live.php?mac=00:1A:79:B5:10:20&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1363054&extension=ts&play_token=zXYJLalb14
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 395
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:CE:F5:7D&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 397
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:1D:0A:2C&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=4457&extension=ts&play_token=twb6ryYZ9m
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://keycdn.co:80/play/live.php?mac=00:1A:79:6F:ED:52&stream=331483&extension=ts&play_token=8Sko3qxNXD
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 398
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:C6:6B:D8&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 399
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:CB:9F:FA&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="EPL/UCL", TNTSports2-FHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458666&extension=ts&play_token=O8B7BVGei9
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 402
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:73:CC:96&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 404
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:CE:39:78&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNTSports2-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=4458&extension=ts&play_token=KYUDwTHTaX
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 405
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:A5:9F:D7&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 408
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:4C:C9:85&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 410
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:FB:1E:07&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 411
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:74:14:2C&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1471376&extension=ts&play_token=357qaqPJ45
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1471376&extension=ts&play_token=20sz49WZYm
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1471376&extension=ts&play_token=rSq4a1TSFj
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1471376&extension=ts&play_token=5yIOpVayWr
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 416
-http://prixon.abcott.me:80/play/live.php?mac=00:1A:79:c5:75:e0&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="LA LIGA", Supersport_Laliga-FHD
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=239076&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 417
-http://prixon.abcott.me:80/play/live.php?mac=00:1B:79:3d:06:47&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 421
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:93:4C&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 422
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:74:fb:b0&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="LA LIGA", PremierSports1-FHD
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458647&extension=ts&play_token=V1ObTuAnPV
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 423
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:9a:9f:8c&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 427
-http://protv.fun:80/play/live.php?mac=00:1A:79:64:33:37&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 429
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:C6:D9:4F&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 430
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:58:8C:F3&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 434
-http://line.300spartiatis.com:80/play/live.php?mac=00:1A:79:FB:63:38&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470622&extension=ts&play_token=VhyUMrFgIa
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 436
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:88:e1:ee&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=594609&extension=ts&play_token=vJbkykOutT
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 439
-http://23232.top:80/play/live.php?mac=A0:BB:3E:01:92:49&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1470622&extension=ts&play_token=TBBffff1SZ
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1470622&extension=ts&play_token=86TVmjqDA5
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470622&extension=ts&play_token=6fGHH7IWA3
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 440
-http://23232.top:80/play/live.php?mac=A0:BB:3E:43:0A:AE&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 441
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E8:19:80&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470620&extension=ts&play_token=9prVcKwqtt
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 442
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:D6&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1470620&extension=ts&play_token=oIA9uwGlY5
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1470620&extension=ts&play_token=YUvvG7N8wH
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470620&extension=ts&play_token=1AmBDsMF4A
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 445
-http://siegerzugang.live:80/play/live.php?mac=00:1A:79:80:D8:CF&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 446
-http://siegerzugang.live:80/play/live.php?mac=00:1A:79:A4:47:DF&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 446
-http://siegerzugang.live:80/play/live.php?mac=00:1A:79:22:7B:82&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 450
-http://line.300spartiatis.com:80/play/live.php?mac=00:1A:79:58:D8:7D&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="UHD 1" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",UHD 1 BY ASTRA
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1491209&extension=ts&play_token=m00gcmkgn6
+#EXTINF:-1 tvg-id="UHD 1" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",UHD 1 BY ASTRA
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1491209&extension=ts&play_token=fMvgfnszka
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 452
-http://line.300spartiatis.com:80/play/live.php?mac=00:1A:79:FC:17:29&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 456
-http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:5E:7D:D4&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 457
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:cc:e1:00&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1481950&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 459
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:c7:07:ba&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 460
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:be:31:bc&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1481950&extension=ts&play_token=9IQmXFBBjN
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1481950&extension=ts&play_token=2L1kJ5n2lA
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1470622&extension=ts&play_token=tM72UscijX
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 462
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:79:9B:C8&stream=1579367&extension=ts
 
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 463
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:09:98:6E&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 465
-http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:58:4F:56&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 466
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:58:4F:56&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 468
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:24:7d:65&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 469
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:76:1a:d7&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 470
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:74:89:e9&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 471
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:b9:08:64&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 472
-http://tv-ks.top:80/play/live.php?mac=00:1A:79:1d:0a:2c&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 476
-http://huno.space:80/play/live.php?mac=00:1A:79:72:09:d7&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 482
-http://to-jest-link.cc:80/play/live.php?mac=00:1A:79:BA:19:C7&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 485
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:BF:B7:35&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 487
-http://oceanstream.me:80/play/live.php?mac=00:1A:79:B2:FE:E4&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 494
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:27:4f:99&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 498
-http://huno.space:80/play/live.php?mac=00:1A:79:81:a5:1c&stream=1579367&extension=ts
-
-#EXTINF:-1  group-title="Now Premier 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_110_80", Now Premier 4K 499
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:79:84:6d&stream=1579367&extension=ts
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="EPL", Supersport_Premier_League-FHD
+http://kstv.us:8080/live/666r2amliu/lSfUe486EA/47633.ts
