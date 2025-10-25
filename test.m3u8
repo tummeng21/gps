@@ -1,1 +1,469 @@
+{
+"name": "SUN TV",
+"author": "SUN",
+"image": "https://bit.ly/3VtIh55",
 
+"stations":[
+
+ 
+{
+"name":"ROCKAction",
+"image":"https://img.pic.in.th/Rock_Action.png",
+"url":"https://dookeela2.live/live-tv/rock-action",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BBC-Doctor-Who-Classic",
+"image": "https://pbs.twimg.com/profile_images/1894822378716172288/oru0SAo9_200x200.jpg",
+"url": "https://www.parsatv.com/name=BBC-Doctor-Who-Classic#movie",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{
+"name": "CINEMAX ",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",  
+"url":"https://dookeela2.live/live-tv/cinemax",
+"referer": "https://dookeela.live/live-tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": " Warner TV",
+"image":"https://dookeela2.live/uploads/1703832225.png",
+"url":"https://dookeela2.live/live-tv/warnertv",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"info": "dookeela"},
+
+{
+"name": "Paramount CHANNEL",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png",
+"url": "https://dookeela2.live/live-tv/hitsnow",
+"info": "LC",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"},
+
+
+
+{
+"name":"Hits Movies",
+"image":"https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png",
+"url":"https://dookeela2.live/live-tv/hits-movies",
+"referer":"https://wacth.tv", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer":"true" },
+
+
+
+{
+"name": "GAGS",
+"image": "https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",
+"url":"https://www.inwiptv.me/player_demo.php?channel=89781",
+"playInNatPlayer": "true" ,
+"referer":"https://www.inwiptv.com/"},
+
+
+
+
+
+{
+"name":"AFV",
+"image":"https://static.tvtropes.org/pmwiki/pub/images/afv_2021_logo.png",
+"url":"https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8",
+"referer":"https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"},
+
+{
+"name":"Always Funny ",
+"image":"https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USBA1600001XM_20210720T084153.png",
+"url":"https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8",
+"playInNatPlayer": "true"},
+
+{
+"name": "cartoonito",
+"image": "https://dookeela2.live/uploads/1704039063.png",
+"url": "https://dookeela2.live/live-tv/cartoonito",
+"referer": "https://ufanance.co/",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"disney-channel",
+image:"https://dookeela2.live/uploads/1716361978.png",
+"url":"https://dookeela2.live/live-tv/disney-channel",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"},
+ 
+{
+"name": "animax",
+"image": "https://dookeela2.live/uploads/1704038567.png",
+"url":"https://dookeela2.live/live-tv/animax",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+
+{
+"name":"ROCK ENTERTAINMENT",
+"image":"https://img2.pic.in.th/pic/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow.png",
+"url":"https://dookeela2.live/live-tv/rock-entertainment", 
+"referer":"https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"},
+
+
+{
+"name":"KBS World",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",
+"url":"https://dookeela2.live/live-tv/kbskorea",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"HITS",
+"image":"https://dookeela2.live/uploads/1706112791.png",
+"url":"https://dookeela2.live/live-tv/hits", 
+"referer": "https://freetvdd.com", 
+"info": "", 
+"desktop": "true"},
+
+{name:"TVN MOVIES",
+image:"https://dookeela2.live/uploads/1714100840.png",
+url:"https://dookeela2.live/live-tv/tvn-movies",
+"referer" :  "https://freetvdd.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "livescorethai"},
+
+
+{
+"name":"iqiyi",
+"image": "https://dookeela2.live/uploads/1706405008.png",
+"url": "https://dookeela2.live/live-tv/iqiyi",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "",
+"playInNatPlayer": "true"},
+
+{
+name:"tvN ",
+image:"https://dookeela2.live/uploads/1703833429.png",
+url:"https://dookeela2.live/live-tv/tvn-indonesia",
+"referer" :  "https://freetvdd.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": ""},
+
+{
+"name":"tvbclassichd",
+"image":"https://dookeela2.live/uploads/1719898154.png",
+"url":"https://dookeela2.live/live-tv/tvbclassichd",
+"referer":"",
+"userAgent": "",
+"desktop": "true"},
+ 
+ 
+{
+"name":"HIYAH-PLEX",
+"image":"https://image.roku.com/developer_channels/prod/9b8b7b606e2c3f89ec981a084f3b8ad269418d4148422089d632024eaf6f08af.png",
+"url":"https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8",
+"referer":"https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"},
+
+ 
+ 
+{
+"name":"HBO",
+"image":"https://dookeela2.live/uploads/1703686191.png",
+"url":"https://dookeela2.live/live-tv/hbo",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "",
+"playInNatPlayer": "true"},
+ 
+{
+"name":"HBO FAMILY",
+"image":"https://dookeela2.live/uploads/1703786776.png",
+"url":"https://dookeela2.live/live-tv/hbo-family",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "https://laotv.la/",
+"playInNatPlayer": "true"},
+ 
+{
+"name":"HBO HIT",
+"image":"https://dookeela2.live/uploads/1703786599.png",
+"url":"https://dookeela2.live/live-tv/hbo-hits",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "https://laotv.la/",
+"playInNatPlayer": "true"},
+ 
+{
+"name":"HBO SIGNATURE",
+"image":"https://dookeela2.live/uploads/1703786305.png",
+"url":"https://dookeela2.live/live-tv/hbo-signature",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "https://laotv.la/",
+"playInNatPlayer": "true"},
+
+{
+"name":"V2 BEAT",
+"image":"https://img5.pic.in.th/file/secure-sv1/bitmap.png",
+"url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"},
+ 
+{
+"name": "RUSH",
+"image": "https://dookeela2.live/uploads/1741273735.png",
+"url":"https://dookeela2.live/live-tv/rush-stories", 
+"referer":"https://freetvdd.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer":"true" },
+ 
+{
+"name": "mono-29-music-station",
+"image": "https://dookeela2.live/uploads/1742428538.png",
+"url": "https://dookeela2.live/live-tv/mono-29-music-station",
+"referer":"https://freetvdd.com/"},
+
+{"name": "Trace Urban ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",
+"url":"https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
+"referer": "https://lightning-traceurban-samsungau.amagi.tv",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "BK-LiveTV",
+"desktop": "true"
+},
+
+{
+"name": "Fashion TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png",
+"url":"https://www.parsatv.com/name=Fashion-TV#fashion", 
+"referer":"https://wacth.tv", 
+"info": "wacth", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer":"true" },
+
+{
+"name":"SPIRIT",
+"image":"https://toppng.com/uploads/preview/spirit-airlines-logo-vector-11573943709iapwbxskdz.png",
+"url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+ 
+{
+"name": "SPOTV",
+"image": "https://i.imgur.com/BRZ8rmA.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+ 
+{
+"name": "SPOTV2",
+"image": "https://www.i-pic.info/i/Y3Bt665350.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+
+  
+{ 
+"name"		: "SkySportBundesliga1", 
+"image"		: "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportBundesliga.png", 
+"url"		: "https://wahyu1ptv.pages.dev/SkySportBundesliga1-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{ 
+"name"		: "SkySportBundesliga2", 
+"image"		: "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportBundesliga2.png", 
+"url"		: "https://wahyu1ptv.pages.dev/SkySportBundesliga2-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{
+"name":"SkySportMotoGP",
+"image":"https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png",
+"url"		: "https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{
+"name": "SkySportF1",
+"image": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png",
+"url"		: "https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+},
+
+
+{
+"name":"SPORT TV1",
+"image":"https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png",
+"url"		: "https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{
+"name": "SPORT TV2",
+"image": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png",
+"url"		: "https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+},
+
+
+  
+{ 
+"name"		: "SPORT TV3", 
+"image"		: "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png", 
+"url"		: "https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{ 
+"name"		: "SPORT TV4", 
+"image"		: "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png", 
+"url"		: "https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+
+{ 
+"name"		: "SPORT TV5", 
+"image"		: "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV5.png", 
+"url"		: "https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{ 
+"name"		: "SPORT TV6", 
+"image"		: "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png", 
+"url"		: "https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+
+
+{"name": "True SPORT HD1🇹🇭",
+		"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",
+		"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true1.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+		{"name": "True SPORT HD2🇹🇭",
+		"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",
+		"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true2.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+		{"name": "True SPORT HD3🇹🇭",
+		"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",
+		"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true3.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+		{"name": "True SPORT HD4🇹🇭",
+		"image":"https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",
+		"url": "https://dookeela2.live/live-tv/tsp4",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+		{"name": "True SPORT 5🇹🇭",
+		"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",
+		"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true5.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+		{"name": "True SPORT 7🇹🇭",
+		"image":"https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",
+		"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+{"name": "Horse-TV",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gDGic9btQYkiex081I0parnnCY_skC1NHw&s",
+"url": "https://www.parsatv.com/name=Horse-TV#sport",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"playInNatPlayer": "true"},
+
+{"name": "Horse-Country tv",
+"image":"https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",
+"url": "https://www.parsatv.com/name=Horse-Country-TV#international",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"playInNatPlayer": "true"},
+
+{"name": "World-Of-Freesports",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fFnFhP5PTeT6t8JMVq92UZ6q63BFl-mz6Q&s",
+"url": "https://www.parsatv.com/name=World-Of-Freesports#google_vignette	",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"playInNatPlayer": "true"},
+
+{"name": "Strongman",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWyEUCWB_ofkobi0XlvxFbUMBDfw2pFt9lw&s",
+"url": "https://www.parsatv.com/name=Strongman#sport",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"playInNatPlayer": "true"},
+
+{"name": "Game",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQMhp1RzNAQDbLotqaZEfmiiDM2Bk3fEIvg&s",
+"url": "https://www.parsatv.com/name=Game-Plus#sport",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"playInNatPlayer": "true"},
+
+{"name": "Billiard-TV",
+"image":"https://image.roku.com/developer_channels/prod/857d783797d6e9e60890cdc13b5b9d334f58f2ae3589a5e47a324413626c523c.png",
+"url": "https://www.parsatv.com/name=Billiard-TV#google_vignette",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+"playInNatPlayer": "true"},
+        
+
+
+
+
+]
+},
