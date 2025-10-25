@@ -547,10 +547,7 @@ https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/tbrocken
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องทรูวิชั่น",Film Asia
 http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9362.m3u8
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195FilmA.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="ช่องทรูวิชั่น",Film1
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195film1.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="ช่องทรูวิชั่น",Film1
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195film1a.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="ช่องทรูวิชั่น",Film2
 https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/195film2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="ช่องทรูวิชั่น",Rockaction
