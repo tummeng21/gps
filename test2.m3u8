@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://ball67.com/assets/channels-logo/monomax-1.png",Monomax 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://ball67.com/assets/channels-logo/monomax-1.png",bein1 test
+#EXTVLCOPT:http-referrer=https://168zeedtv1.com/
+https://stream.dooballz4.com/168zeedtv/bein1/chunks.m3u8
 #EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://ball67.com/assets/channels-logo/monomax-2.png",Monomax 2
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
