@@ -1,944 +1,536 @@
-{ 
-"name": "ช่องทีวีกีฬา", 
-"author": "",
-"image": "https://img.lovepik.com/free-png/20210919/lovepik-stereo-letter-m-png-image_400745110_wh1200.png",
-"url": "", 
-
-"groups": [
+{
+"name":"สด..มั้ง บอลโลก มีภาพตอนแข่ง",
+"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/videoframe.png",
+"url":"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8",
+"referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+{
+"name":"เกือบสด..มั้ง บอลโลก ฟีฟา",
+"image":"https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/videoframe.png",
+"url":"https://www.goaldaddythai.com/fifa-world-cup",
+"referer": "https://www.goaldaddythai.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name": "รวมช่องกีฬา 1",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
-"stations": [
-
-{ "name": "MonoMax Sports", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s", "url": "https://dookeela.live/live-tv/dklsport1", "referer": "https://dookeela.live/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-{"name":"Monomax Sport-3", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport1/th-sport/dxsport1/chunks.m3u8?nimblesessionid=25585411", "referer": "https://www.andaman888th.net/", "playInNatPlayer":"true"},
-
-{ "name": "MonoMax 1", "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://dookeela.live/live-tv/monomax1", "referer": "https://dookeela.live/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-
-{ "name": "MonoMax 2", "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://dookeela.live/live-tv/monomax2", "referer": "https://dookeela.live/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-{ "name": "MonoMax 1", "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://168dooball.io/live-stream/?mode=ball&ch=monomax3&lid=1022&mid=155927", "referer": "https://168dooball.io/live-stream/?mode=ball&ch=monomax3&lid=1022&mid=155927", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-{"name": "Monomax Sport-1","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "https://fw4free.com/","info":"","playInNatPlayer": "true"}, {"name":"Monomax Sport-2", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://slave02.appball.vip/hls/ch11.m3u8", "playInNatPlayer":"true"},  {"name":"Monomax Sport-4", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8", "referer": "https://footballsod.live/", "playInNatPlayer": "true"}, {"name":"Monomax Sport-5", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", "playInNatPlayer":"true"}, {"name":"Monomax Sport-6", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", "info": "มือถือ", "playInNatPlayer":"true"}, {"name":"Monomax Sport-7", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.ball24.tv/allchannel/?id=monomax2", "playInNatPlayer":"true"}, {"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2", "playInNatPlayer":"true"}, {"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://r3-sn-5fo-c37ed15.googleuservideo.com/168db_e1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNjo0MzowNiBQTSZoYXNoX3ZhbHVlPWttNmwvVnVwcEhHTzNZa3VIcGtOa1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD1iZ2hyNzY3MDc5", "playInNatPlayer":"true"}, 
-{"name":"Monomax Sport-8", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", "url": "https://www.baan-ball.com/live/watch/31467", "referer": "https://www.baan-ball.com/live/watch/31467", "embed":"true"}, 
-
-]},
+"name":"World Cup - World",
+"image":"https://imgapi.b-cdn.net/sport-logo/fifa-wc-26.png",
+"url":"https://ball67.com/live/7bd86484-8cb7-4f0d-817a-dc12a46e2381/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name": "รวมช่องกีฬา 2",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
-"stations": [
-
-    {
-          "name": "BEIN SPORT HD 1",
-          "image": "https://www.img04.xyz/assets/img/ch_logo/epl-bein1.png",
-          "url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "BEIN SPORT HD 2",
-          "image": "https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png",
-          "url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT HD1",
-          "image": "https://www.img01.xyz/assets/img/ch_logo/hd-tsport1.png",
-          "url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT HD2",
-          "image": "https://www.img04.xyz/assets/img/ch_logo/hd-tsport2.png",
-          "url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT HD3",
-          "image": "https://www.img08.xyz/assets/img/ch_logo/hd-tsport3.png",
-          "url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "NBA HD",
-          "image": "https://www.img09.xyz/assets/img/ch_logo/hd-nba.png",
-          "url": "https://www.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TENNIS HD",
-          "image": "https://www.img07.xyz/assets/img/ch_logo/hd-tennis.png",
-          "url": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "FOX SPORT HD1",
-          "image": "https://www.img05.xyz/assets/img/ch_logo/hd-spotv1.png",
-          "url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "FOX SPORT 2",
-          "image": "https://www.img07.xyz/assets/img/ch_logo/hd-spotv2.png",
-          "url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "FOX SPORT 3",
-          "image": "https://www.img07.xyz/assets/img/ch_logo/sd-foxsports3.png",
-          "url": "https://www.livedoomovies.com:4432/02_FoxSport3_TH_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT 2",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport2.png",
-          "url": "https://www.livedoomovies.com:4432/02_sport2_480p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT 5",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport5.png",
-          "url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT 6",
-          "image": "https://www.img10.xyz/assets/img/ch_logo/sd-tsport6.png",
-          "url": "https://www.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT 7",
-          "image": "https://www.img08.xyz/assets/img/ch_logo/sd-tsport7.png",
-          "url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "TRUE SPORT HD4",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport4.png",
-          "url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "Premier Football HD 1",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "Premier Football HD 2",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl2.png",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "Premier Football HD 3",
-          "image": "https://www.img08.xyz/assets/img/ch_logo/doomovie-epl3.png",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "Premier Football HD 4",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl4.png",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "Premier Football HD 5",
-          "image": "https://www.img07.xyz/assets/img/ch_logo/doomovie-epl5.png",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
-          "referer": "https://sport.livedoomovies.com/"
-        },
-        {
-          "name": "NFL Network",
-          "image": "https://www.img05.xyz/assets/img/ch_logo/nfl-network.png",
-          "url": "https://www.livedoomovies.com:4432/02_NFLNetwork_720p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "SMM TV",
-          "image": "https://www.img06.xyz/assets/img/ch_logo/SMMTV.png",
-          "url": "https://www.livedoomovies.com:4432/02_SMM_TV_480p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
-        {
-          "name": "T Sports Channel",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/TSportsChannel.png",
-          "url": "https://www.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
-          "referer": "https://www.livedoomovies.com/"
-        },
- ]
-},
+"name":"monomax1 ",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8",
+"referer": "https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+{
+"name":"monomax1 ",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"http://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
+"referer": "http://github.com/cattv976/sportthai/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+{
+"name":"monomax2 ",
+"image":"https://www.doonewmovie365.com/assets/img/ch_logo/Monomax_Sport01.png",
+"url":"https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8",
+"referer": "https://yyi7tewa2x.3ppnkog.com/xstream/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
-
-
-{ "name": "Dookela", "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_the_Department_of_Special_Investigation.jpg", "stations": [ { "name":"3bbasian", "image":"https://dookeela.live/uploads/1703829940.png", "url":"https://dookeela.live/live-tv/3bbasian?", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"HBO", "image":"https://dookeela.live/uploads/1703686191.png", "url":"https://dookeela.live/live-tv/hbo", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"HBO Family", "image":"https://dookeela.live/uploads/1703786776.png", "url":"https://dookeela.live/live-tv/hbo-family", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"HBO Hits", "image":"https://dookeela.live/uploads/1703786599.png", "url":"https://dookeela.live/live-tv/hbo-hits", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"HBO Signature", "image":"https://dookeela.live/uploads/1703786305.png", "url":"https://dookeela.live/live-tv/hbo-signature", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"Cinemax", "image":"https://dookeela.live/uploads/1703786799.png", "url":"https://dookeela.live/live-tv/cinemax", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"Warner TV", "image":"https://dookeela.live/uploads/1703832225.png", "url":"https://dookeela.live/live-tv/warnertv", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"TVN", "image":"https://dookeela.live/uploads/1703833429.png", "url":"https://dookeela.live/live-tv/tvn-indonesia", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"Mono29Plus", "image":"https://dookeela.live/uploads/1703787733.png", "url":"https://dookeela.live/live-tv/mono29pius", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"EPL-1", "image":"https://dookeela.live/uploads/1664499665.png", "url":"https://dookeela.live/live-tv/epl1_sd", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"EPL-2", "image":"https://dookeela.live/uploads/1664499673.png", "url":"https://dookeela.live/live-tv/epl2", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"EPL-3", "image":"https://dookeela.live/uploads/1664499681.png", "url":"https://dookeela.live/live-tv/epl3", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"EPL-4", "image":"https://dookeela.live/uploads/1664499692.png", "url":"https://dookeela.live/live-tv/epl4", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"EPL-5", "image":"https://dookeela.live/uploads/1664499700.png", "url":"https://dookeela.live/live-tv/epl5", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"True Sport HD1", "image":"https://dookeela.live/uploads/1664802455.png", "url":"https://dookeela.live/live-tv/tsp1", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"True Sport HD2", "image":"https://dookeela.live/uploads/1664499966.png", "url":"https://dookeela.live/live-tv/tsp2", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"True Sport HD3", "image":"https://dookeela.live/uploads/1664802480.png", "url":"https://dookeela.live/live-tv/tsp3", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"True Sport 5", "image":"https://dookeela.live/uploads/1664847910.png", "url":"https://dookeela.live/live-tv/tsp5", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"True Sport 7", "image":"https://dookeela.live/uploads/1664847921.png", "url":"https://dookeela.live/live-tv/tsp7", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"SPOTV1", "image":"https://dookeela.live/uploads/1664529562.png", "url":"https://dookeela.live/live-tv/spotv", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"SPOTV2", "image":"https://dookeela.live/uploads/1664529575.png", "url":"https://dookeela.live/live-tv/spotv2", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"Bein Sport 1", "image":"https://dookeela.live/uploads/1664500365.png", "url":"https://dookeela.live/live-tv/bein1", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"Bein Sport 2", "image":"https://dookeela.live/uploads/1690843424.png", "url":"https://dookeela.live/live-tv/bein2", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, { "name":"Bein Sport 3", "image":"https://dookeela.live/uploads/1663980670.png", "url":"https://dookeela.live/live-tv/bein3", "referer": "https://dookeela.live/", "info": "", "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"}, ] },
+{
+"name":"TSN บอลโลก",
+"image":"https://f.ptcdn.info/909/090/000/mnflwx0co3kNQynawl0-o.jpg",
+"url":"https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8",
+"referer": "https://raw.githubusercontent.com/kusnadipepenk/xstream/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 
 
 {
-"name": "รวมช่องกีฬา 4",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
-"stations": [
-{"name": "PL1 - 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8", "referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-{"name": "PL1 - 2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ball24.tv/allchannel/?id=epl1", "referer": "https://www.ball24.tv/","playInNatPlayer": "true"},
-{"name": "PL1 - 3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8", "referer": "https://www.doomovie-hd.com","playInNatPlayer": "true"},
-{"name": "PL1 - 4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ufa77.fun/channel?ch=epl1", "referer": "https://www.ufa77.fun/","playInNatPlayer": "true"},
-{"name": "PL1 - 5","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.heng99bet.com/live/epl1", "referer": "https://www.heng99bet.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 6","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8", "referer": "https://livescorethai.net/","playInNatPlayer": "true"},
-{"name": "PL1 - 7","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dookeela.live/live-tv/epl1_sd", "referer": "https://dookeela.live/","playInNatPlayer": "true"},
-{"name": "PL1 - 8","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 9","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8", "referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-{"name": "PL1 - 10","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8", "referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-{"name": "PL1 - 11","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8", "referer": "https://dooball2you.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 12","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://cdn-edge-sg2.retromovie.tv/play/63f6e164b05d54fcd9552d4934e366b4/95e71c1010c2eb6187cca50fb6957c56/1726325328/playlist.m3u8", "referer": "https://ufanance.co/","playInNatPlayer": "true"},
-{"name": "PL1 - 13","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1/", "referer": "https://www.andaman888th.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 14","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://media.wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=", "referer": "https://dooball2you.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 15","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/live/tpf1/", "referer": "https://dooball2you.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 16","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87tpf1/", "referer": "https://dooball2you.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 17","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.dooballfree24hr.com/live/true-premier-football-hd1/", "referer": "https://www.dooballfree24hr.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 18","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.baballbet.com/live/true-premier-football-hd1/", "referer": "https://www.baballbet.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 19","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://ballmun.com/ch1", "referer": "https://ballmun.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 20","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball66x.com/?match_id=1213822", "referer": "https://dooball66x.com/","playInNatPlayer": "true"},
-{"name": "PL1 - 21","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://cdn4321.google-streams.com:9306/v5/IUB9D7XOiyU_gN1BBt8oDg/1729434955/6ea8c4b2d30adb9d78745e01c3a64393/hoLYwYxisgKq07g6Uecyyw/1729445635/live/vx-origin/ls-epl1x_720/chunks.m3u8", "referer": "","playInNatPlayer": "true"},
+"name":"Caze_TV บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/284b0094ab4f339fe29f54d096eeb381f69395d2/CazeTV.m3u8",
+"referer": "https://raw.githubusercontent.com/Bluestraveller13/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-{"name": "PL2 - 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/playlist.m3u8", "referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-{"name": "PL2 - 2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ball24.tv/allchannel/?id=epl2", "referer": "https://www.ball24.tv/","playInNatPlayer": "true"},
-{"name": "PL2 - 3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8", "referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-{"name": "PL2 - 4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dookeela.live/live-tv/epl2", "referer": "https://dookeela.live/","playInNatPlayer": "true"},
-{"name": "PL2 - 5","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8", "referer": "https://www.madoohd.com/","playInNatPlayer": "true"},
-{"name": "PL2 - 6","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ufa77.fun/channel?ch=epl2", "referer": "https://www.ufa77.fun/","playInNatPlayer": "true"},
-{"name": "PL2 - 7","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/live/tpf2/", "referer": "https://dooball2you.com/","playInNatPlayer": "true"},
-{"name": "PL2 - 8","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.heng99bet.com/live/epl2", "referer": "https://www.heng99bet.com/","playInNatPlayer": "true"},
-{"name": "PL2 - 9","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ufa77.fun/channel?ch=epl3", "referer": "https://www.ufa77.fun/","playInNatPlayer": "true"},
-{"name": "PL2 - 10","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/live/tpf3/", "referer": "https://dooball2you.com/","playInNatPlayer": "true"},
-{"name": "PL2 - 11","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.heng99bet.com/live/epl3", "referer": "https://www.heng99bet.com/","playInNatPlayer": "true"},
-{"name": "PL2 - 12","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd3/", "referer": "https://www.andaman888th.com/","playInNatPlayer": "true"},
-{"name": "PL2 - 13","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.baballbet.com/live/true-premier-football-hd3/", "referer": "https://www.baballbet.com/","playInNatPlayer": "true"},
-	
-{"name": "PL3 - 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/playlist.m3u8", "referer": "https://livescorethai.net/","playInNatPlayer": "true"},
-{"name": "PL3 - 2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ufa77.fun/channel?ch=epl4", "referer": "https://www.ufa77.fun/","playInNatPlayer": "true"},
-{"name": "PL3 - 3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://www.ball24.tv/allchannel/?id=epl3", "referer": "https://www.ball24.tv/","playInNatPlayer": "true"},
-{"name": "PL3 - 4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dookeela.live/live-tv/epl3", "referer": "https://dookeela.live/","playInNatPlayer": "true"},
+{
+"name":"Caze_TV 540p บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m3u8",
+"referer": "https://github.com/rdc1793/canaisiptv/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
- ]
-},
+{
+"name":"Caze_TV 720p บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8",
+"referer": "https://github.com/rdc1793/canaisiptv/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Ctsport บอลโลก",
+"image":"https://cdn.aptoide.com/imgs/6/a/9/6a9d6294be85d251de1c330f2800763e_fgraphic.png",
+"url":"http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+"referer": "http://88.212.15.19/live/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"stream8 บอลโลก",
+"image":"https://f.ptcdn.info/428/087/000/m8g5ap59jmMLfEaSYzj-o.jpg",
+"url":"http://195.201.243.254/stream8/index.m3u8",
+"referer": "http://88.212.15.19/live/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"foxsports บอลโลก",
+"image":"https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",
+"url":"https://cdn2.stream.atmflix.live/atmflixlive/foxsports/playlist.m3u8",
+"referer": "https://atmflix.live/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name": "รวมช่องกีฬา 5",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
-"stations": [
+"name":"广东体育 1",
+"image":"https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",
+"url":"http://198.204.228.26/live/gdty.m3u8",
+"referer": "http://198.204.228.26/live/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
 {
-name: "True Premier hd1",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl1.png",
-url: "https://ball365.co/channel/?id=epl1",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
+"name":"BR 720lp",
+"image":"https://ih1.redbubble.net/image.4954799359.5991/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg",
+"url":"https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720lp-vtt/index.m3u8",
+"referer": "https://github.com/rdc1793/canaisiptv/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
 {
-name: "True Premier hd2",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl2.png",
-url: "https://ball365.co/channel/?id=epl2",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
+"name":"FS1",
+"image":"https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",
+"url":"http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160",
+"referer": "http://89.187.179.148:826/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 {
-name: "True Premier hd3",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl3.png",
-url: "https://ball365.co/channel/?id=epl3",referer: "https://ball365.co/",playInNatPlayer: "true"
-},
-
-{name: "True Premier hd4",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl4.png",
-url: "https://ball365.co/channel/?id=epl4",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "True Premier hd5",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl5.png",
-url: "https://ball365.co/channel/?id=epl5",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Truesport HD",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd.png",
-url: "https://ball365.co/channel/?id=truesporthd",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Truesport HD2",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd2.png",
-url: "https://ball365.co/channel/?id=truesporthd2",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Truesport HD3",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd3.png",
-url: "https://ball365.co/channel/?id=truesporthd3",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
- 
-{name: "True Sport 2",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesport2.png",
-url: "https://ball365.co/channel/?id=truesport2",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "True Sport 5",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesport5.png",
-url: "https://ball365.co/channel/?id=truesport5",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "True Sport 6",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesport6.png",
-url: "https://ball365.co/channel/?id=truesport6",referer: "https://ball365.co/",playInNatPlayer: "true"
-},
-
-{name: "True Sport 7",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesport7.png",
-url: "https://ball365.co/channel/?id=truesport7",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "True Tennis",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truetennis.png",
-url: "https://ball365.co/channel/?id=truetennis",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "True NBA",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truenba.png",
-url: "https://ball365.co/channel/?id=truenba",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: " Golf Channel",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/golfchannel.png",
-url: "https://ball365.co/channel/?id=golfchannel",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "beInSport 1TH",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein1.png",
-url: "https://ball365.co/channel/?id=bein1",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "beInSport 2TH",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein2.png",
-url: "https://ball365.co/channel/?id=bein2",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "MUTV",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mutv.png",
-url: "https://ball365.co/channel/?id=mutv",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "LFCTV",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/lfctv.png",
-url: "https://ball365.co/channel/?id=lfctv",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sportklub1 Sl",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub1slovenia.png",
-url: "https://ball365.co/channel/?id=sportklub1slovenia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Sportklub2 Sl",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub2slovenia.png",
-url: "https://ball365.co/channel/?id=sportklub2slovenia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sportklub3 Sl",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub3slovenia.png",
-url: "https://ball365.co/channel/?id=sportklub3slovenia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sportklub4 Sl",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportklub4slovenia.png",
-url: "https://ball365.co/channel/?id=sportklub4slovenia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Mainevent",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportmainevent.png",
-url: "https://ball365.co/channel/?id=skysportmainevent",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Cricket",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportclicket.png",
-url: "https://ball365.co/channel/?id=skysportclicket",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Action",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportaction.png",
-url: "https://ball365.co/channel/?id=skysportaction",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Golf",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportgolf.png",
-url: "https://ball365.co/channel/?id=skysportgolf",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Premier League
-",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportpremiere.png",
-url: "https://ball365.co/channel/?id=skysportpremiere",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Football",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportfootball.png",
-url: "https://ball365.co/channel/?id=skysportfootball",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sky Sports Mix",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/skysportmix.png",
-url: "https://ball365.co/channel/?id=skysportmix",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "BT Sport1 HD",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/btsport1.png",
-url: "https://ball365.co/channel/?id=btsport1",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "BT Sport2 HD",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/btsport2.png",
-url: "https://ball365.co/channel/?id=btsport1",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "BT Sport3 HD",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/btsport3.png",
-url: "https://ball365.co/channel/?id=btsport3",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "BT Sport ESPN",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/btsportespn.png",
-url: "https://ball365.co/channel/?id=btsportespn",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "ESPN Brazil",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/espnbrazil.png",
-url: "https://ball365.co/channel/?id=espnbrazil",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "ESPN US",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/espnus.png",
-url: "https://ball365.co/channel/?id=espnus",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Tv3 Sport 1",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/tv3sport1.png",
-url: "https://ball365.co/channel/?id=tv3sport1",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Tv3 Max",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/tv3max.png",
-url: "https://ball365.co/channel/?id=tv3max",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sports Tv2",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv2.png",
-url: "https://ball365.co/channel/?id=sporttv2",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sports Tv3",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv3.png",
-url: "https://ball365.co/channel/?id=sporttv3",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sports Tv4",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv4.png",
-url: "https://ball365.co/channel/?id=sporttv4",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sportv",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportv.png",
-url: "https://ball365.co/channel/?id=sportv",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sportv2",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportv2.png",
-url: "https://ball365.co/channel/?id=sportv2",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
+"name":"FOX1",
+"image":"https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",
+"url":"http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548",
+"referer": "http://89.187.179.148:826/&userAgent=exo_player",
+"info":"(อัพเดท/6/12/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
-{name: "Beinsport1 Fr",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsport1fr.png",
-url: "https://ball365.co/channel/?id=beinsport1fr",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Beinsport2 Fr",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsport2fr.png",
-url: "https://ball365.co/channel/?id=beinsport2fr",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
- 
-{name: "BeinMax4 Fr",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinmax4fr.png",
-url: "https://ball365.co/channel/?id=beinmax4fr",referer: "https://ball365.co/",playInNatPlayer: "true"
-},  
- 
-{name: "BeinMax5 Fr",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinmax5fr.png",
-url: "https://ball365.co/channel/?id=beinmax5fr",referer: "https://ball365.co/",playInNatPlayer: "true"
-},  
- 
-{name: "BeinMax6 Fr",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinmax6fr.png",
-url: "https://ball365.co/channel/?id=beinmax6fr",referer: "https://ball365.co/",playInNatPlayer: "true"
-},  
- 
-{name: "Beinsport SA1",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia1hd.png",
-url: "https://ball365.co/channel/?id=beinsportsarabia1hd",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Beinsport SA2",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia2hd.png",
-url: "https://ball365.co/channel/?id=beinsportsarabia2hd",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Beinsport SA3",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia3hd.png",
-url: "https://ball365.co/channel/?id=beinsportsarabia3hd",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Sport Digital",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sportdigital.png",
-url: "https://ball365.co/channel/?id=sportdigital",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Cmore Live",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/cmorelivehd.png",
-url: "https://ball365.co/channel/?id=cmorelivehd",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "Cmore Football",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsportsarabia3hd.png",
-url: "https://ball365.co/channel/?id=cmorefootball",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "DigiSport1 RO",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/digisport1romania.png",
-url: "https://ball365.co/channel/?id=digisport1romania",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "DigiSport2 RO",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/digisport2romania.png",
-url: "https://ball365.co/channel/?id=digisport2romania",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "DigiSport3 RO",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/digisport3romania.png",
-url: "https://ball365.co/channel/?id=digisport3romania",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "DigiSport4 RO",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/digisport4romania.png",
-url: "https://ball365.co/channel/?id=digisport4romania",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "ArenaSport1 RS",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/arenasport1serbia.png",
-url: "https://ball365.co/channel/?id=arenasport1serbia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "ArenaSport2 RS",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/arenasport2serbia.png",
-url: "https://ball365.co/channel/?id=arenasport2serbia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "ArenaSport3 RS",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/arenasport3serbia.png",
-url: "https://ball365.co/channel/?id=arenasport3serbia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "ArenaSport4 RS",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/arenasport4serbia.png",
-url: "https://ball365.co/channel/?id=arenasport4serbia",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-{name: "Sport1 Plus",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sport1plus.png",
-url: "https://ball365.co/channel/?id=sport1plus",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
-
-{name: "ZiggoSport select",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/ziggosportselect.png",
-url: "https://ball365.co/channel/?id=ziggosportselect",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
+{
+"name":"AISplay-sport1",
+"image":"https://www.imgx04.xyz/assets/img/ch_logo/AISplay-sport1.jpg",
+"url":"https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8",
+"referer": "https://www2.movie2k.io/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
-{name: "ZiggoSport Voetbal",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/ziggosportvoetbal.png",
-url: "https://ball365.co/channel/?id=ziggosportvoetbal",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
+{
+"name":"AISplay-sport1",
+"image":"https://www.imgx04.xyz/assets/img/ch_logo/AISplay-sport1.jpg",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+"referer": "https://olympic-embed.ais-vidnt.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-{name: "PFC",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/pfc.png",
-url: "https://ball365.co/channel/?id=pfc",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
 
-{name: "GOL",image: "https://ball365.co/wp-content/themes/ball365/image/icon_ch/gol.png",
-url: "https://ball365.co/channel/?id=gol",referer: "https://ball365.co/",playInNatPlayer: "true"
-}, 
- ]
-},
+{
+"name":"AISplay-sport2",
+"image":"https://www.imgx01.xyz/assets/img/ch_logo/AISplay-sport2.jpg",
+"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 ",
+"referer": "https://olympic-embed.ais-vidnt.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 
 {
-"name": "รวมช่องกีฬา 6",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
-"stations": [
-{name: "True Premier hd1",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
-url: "https://www.warpfootball.games/live/?ch=epl1",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-{name: "True Premier hd2",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
-url: "https://www.warpfootball.games/live/?ch=epl2",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True Premier hd3",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-url: "https://www.warpfootball.games/live/?ch=epl3",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-},
-{name: "True Premier hd4",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
-url: "https://www.warpfootball.games/live/?ch=epl4",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-},
- 
-{name: "True Premier hd5 ",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
-url: "https://www.warpfootball.games/live/?ch=epl5",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Truesport HD",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",
-url: "https://www.warpfootball.games/live/?ch=truesporthd",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-},
-
-{name: "Truesport HD2",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd2.png",
-url: "https://www.warpfootball.games/live/?ch=truesporthd2",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-},
-
-{name: "Truesport HD3",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd3.png",
-url: "https://www.warpfootball.games/live/?ch=truesporthd3",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True sport 2",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport2.png",
-url: "https://www.warpfootball.games/live/?ch=truesport2",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True sport 5",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport5.png",
-url: "https://www.warpfootball.games/live/?ch=truesport5",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True sport 6",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport6.png",
-url: "https://www.warpfootball.games/live/?ch=truesport6",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True sport 7",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport7.png",
-url: "https://www.warpfootball.games/live/?ch=truesport7",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "PPTV",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/pptv.png",
-url: "https://www.warpfootball.games/live/?ch=pptv",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True Tennis",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truetennis.png",
-url: "https://www.warpfootball.games/live/?ch=truetennis",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True NBA",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/truenba.png",
-url: "https://www.warpfootball.games/live/?ch=truenba",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "True Golf",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/golfchannel.png",
-url: "https://www.warpfootball.games/live/?ch=golfchannel",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-},
- 
-{name: "Bein Sport 1TH",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
-url: "https://www.warpfootball.games/live/?ch=bein1",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein Sport 2TH",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein2.png",
-url: "https://www.warpfootball.games/live/?ch=bein2",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "MUTV",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/mutv.png",
-url: "https://www.warpfootball.games/live/?ch=mutv",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "LFCTV",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/lfctv.png",
-url: "https://www.warpfootball.games/live/?ch=lfctv",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein Sport 1Fr",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport1fr.png",
-url: "https://www.warpfootball.games/live/?ch=beinsport1fr",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein Sport 2 Fr",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport2fr.png",
-url: "https://www.warpfootball.games/live/?ch=beinsport2fr",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein max 4 Fr",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinmax4fr.png",
-url: "https://www.warpfootball.games/live/?ch=beinmax4fr",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein max 5 Fr",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinmax5fr.png",
-url: "https://www.warpfootball.games/live/?ch=beinmax5fr",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein max 6 Fr",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinmax6fr.png",
-url: "https://www.warpfootball.games/live/?ch=beinmax6fr",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-
-
-{name: "Bein Sa1",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportsarabia1hd.png",
-url: "https://www.warpfootball.games/live/?ch=beinsportsarabia1hd",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein Sa2",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportsarabia2hd.png",
-url: "https://www.warpfootball.games/live/?ch=beinsportsarabia2hd",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Bein Sa3",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportsarabia3hd.png",
-url: "https://www.warpfootball.games/live/?ch=beinsportsarabia3hd",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-
-{name: "Foxsports 1USA",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport1.png",
-url: "https://www.warpfootball.games/live/?ch=foxsports1usa",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-{name: "Foxsports 2 USA",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2.png",
-url: "https://www.warpfootball.games/live/?ch=foxsports2usa",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-{name: "Foxsports 2 NL",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2nl.png",
-url: "https://www.warpfootball.games/live/?ch=foxsport2nl",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Foxsports 4 NL",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport4nl.png",
-url: "https://www.warpfootball.games/live/?ch=foxsport4nl",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-},
-
-{name: "Skysports Mainevent",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",
-url: "https://www.warpfootball.games/live/?ch=skysportmainevent",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-{name: "Skysports Cricket",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportclicket.png",
-url: "https://www.warpfootball.games/live/?ch=skysportclicket",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-{name: "Skysports Action",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportaction.png",
-url: "https://www.warpfootball.games/live/?ch=skysportaction",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-{name: "Skysports Golf",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportgolf.png",
-url: "https://www.warpfootball.games/live/?ch=skysportgolf",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Skysports Premier",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportpremiere.png",
-url: "https://www.warpfootball.games/live/?ch=skysportpremiere",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Skysports Football",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportfootball.png",
-url: "https://www.warpfootball.games/live/?ch=skysportfootball",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "Skysports Mix",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmix.png",
-url: "https://www.warpfootball.games/live/?ch=skysportmix",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "BT Sport 1",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",
-url: "https://www.warpfootball.games/live/?ch=btsport1",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "BT Sport 2",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport2.png",
-url: "https://www.warpfootball.games/live/?ch=btsport2",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "BT Sport 3",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport3.png",
-url: "https://www.warpfootball.games/live/?ch=btsport3",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "BT Sport espn",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsportespn.png",
-url: "https://www.warpfootball.games/live/?ch=btsportespn",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "TV3 Sport 1",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/tv3sport1.png",
-url: "https://www.warpfootball.games/live/?ch=tv3sport1",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{name: "TV3 Max",image: "https://www.warpfootball.games/wp-content/themes/colormag/logo/tv3max.png",
-url: "https://www.warpfootball.games/live/?ch=tv3max",referer: "https://www.warpfootball.games/",playInNatPlayer: "true"
-}, 
-
-{
-"name": "SPORT TV2",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv2.png",  
-"url": "https://www.warpfootball.games/live/?ch=sporttv2",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "SPORT TV3",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv3.png",  
-"url": "https://www.warpfootball.games/live/?ch=sporttv3",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "SPORT TV4",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv4.png",  
-"url": "https://www.warpfootball.games/live/?ch=sporttv4",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
+"name":"monomax1",
+"image":"https://dookeela4.live/uploads/1753517049.png",
+"url":"https://love.cli640a3fn.workers.dev/lx-origin/th-max01_480/chunks.m3u8",
+"referer": "https://github.com/darkrode01/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 {
-"name": "Sport digital",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportdigital.png",  
-"url": "https://www.warpfootball.games/live/?ch=sportdigital",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
+"name":"monomax1 movie",
+"image":"https://dookeela4.live/uploads/1753517049.png",
+"url":"https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8",
+"referer": "https://www.doonewmovie365.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name": "Cmorelive hd",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/cmorelivehd.png",  
-"url": "https://www.warpfootball.games/live/?ch=cmorelivehd",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
+"name":"monomax1 สำรอง",
+"image":"https://dookeela4.live/uploads/1753517049.png",
+"url":"https://love.cli640a3fn.workers.dev/lx-origin/th-max01_480/playlist.m3u8",
+"referer": "https://github.com/darkrode01/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name": "Cmorefotboll",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/cmorefootball.png",  
-"url": "https://www.warpfootball.games/live/?ch=cmorefootball",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Digisport 1 RO",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport1romania.png",  
-"url": "https://www.warpfootball.games/live/?ch=digisport1romania",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Digisport 2 RO",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport2romania.png",  
-"url": "https://www.warpfootball.games/live/?ch=digisport2romania",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Digisport 3 RO",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport3romania.png",  
-"url": "https://www.warpfootball.games/live/?ch=digisport3romania",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Digisport 4 RO",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport4romania.png",  
-"url": "https://www.warpfootball.games/live/?ch=digisport4romania",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Arena sport1 RS",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport1serbia.png",  
-"url": "https://www.warpfootball.games/live/?ch=arenasport1serbia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Arena sport2 RS",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport2serbia.png",  
-"url": "https://www.warpfootball.games/live/?ch=arenasport2serbia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Arena sport3 RS",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport3serbia.png",  
-"url": "https://www.warpfootball.games/live/?ch=arenasport3serbia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Arena sport4 RS",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport4serbia.png",  
-"url": "https://www.warpfootball.games/live/?ch=arenasport4serbia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Sportklub 1 SL",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub1slovenia.png",  
-"url": "https://www.warpfootball.games/live/?ch=sportklub1slovenia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Sportklub 2 SL",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub2slovenia.png",  
-"url": "https://www.warpfootball.games/live/?ch=sportklub2slovenia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sportklub 3 SL",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub3slovenia.png",  
-"url": "https://www.warpfootball.games/live/?ch=sportklub3slovenia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Sportklub 4 SL",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub4slovenia.png",  
-"url": "https://www.warpfootball.games/live/?ch=sportklub4slovenia",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Sport 1 Plus",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sport1plus.png",  
-"url": "https://www.warpfootball.games/live/?ch=sport1plus",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sport tv",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportv.png",  
-"url": "https://www.warpfootball.games/live/?ch=sportv",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Ziggosport Select",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/ziggosportselect.png",  
-"url": "https://www.warpfootball.games/live/?ch=ziggosportselect",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ESPN Brazil",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/espnbrazil.png",  
-"url": "https://www.warpfootball.games/live/?ch=espnbrazil",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "ESPN US",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/espnus.png",  
-"url": "https://www.warpfootball.games/live/?ch=espnus",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "GOL",  
-"image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/gol.png",  
-"url": "https://www.warpfootball.games/live/?ch=gol",
-"referer": "https://www.warpfootball.games/",
-"playInNatPlayer": "true"
-},
- ]
-},
+"name":"mono29 Sport",
+"image":"https://dookeela4.live/uploads/1753517049.png",
+"url":"https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w275341469.m3u8",
+"referer": "https://famelack.com/tv/th&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
+{
+"name":"tpf3",
+"image":"https://dookeela4.live/uploads/1664499681.png",
+"url":"https://dookeela4.live/live-tv/tpf3",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"tpf4",
+"image":"https://dookeela4.live/uploads/1664499692.png",
+"url":"https://dookeela4.live/live-tv/tpf4",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tpf5",
+"image":"https://dookeela4.live/uploads/1664499700.png",
+"url":"https://dookeela4.live/live-tv/tpf5",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"bein1",
+"image":"https://dookeela4.live/uploads/1664500365.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776124&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"bein1 สำรอง",
+"image":"https://dookeela4.live/uploads/1664500365.png",
+"url":"https://love.jco5sjujta.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8",
+"referer": "https://love.jco5sjujta.workers.dev/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"bein2",
+"image":"https://dookeela4.live/uploads/1690843424.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8",
+"referer": "https://warpdooball.net/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"bein2 สำรอง",
+"image":"https://dookeela4.live/uploads/1690843424.png",
+"url":"https://love.jco5sjujta.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8",
+"referer": "https://love.jco5sjujta.workers.dev/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 
 
 {
-"name": "ฟุตบอลไทยลีก",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb19FTdJCNArbn0uvb_GYAppRVi-ThVUlEhw&usqp=CAU",
-"stations": [
-{  
-    "name": "ไทยลีก 1",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/rthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"    
-},
-{
-    "name": "ไทยลีก 1",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/rthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true" 
-},
-{
-    "name": "ไทยลีก 1",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/rthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"
-},
-{
-    "name": "ไทยลีก 1",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/rthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"
-},
-{
-    "name": "ไทยลีก 2",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/mthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"
-},
-{
-    "name": "ไทยลีก 2",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/mthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"    
-},
-{
-    "name": "ไทยลีก 2",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/mthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"    
-},
-{
-    "name": "ไทยลีก 2",
-    "image":   "http://l-iptv.xyz/l-iptv/tvlogo/mthlea.png" ,
-    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8",
-    "referer": "https://olympic-embed.ais-vidnt.com/",
-	"info": " BY ปรีชา อร่ามรักษ์",
-    "playInNatPlayer": "true"  
+"name":"bein3",
+"image":"https://dookeela4.live/uploads/1663980670.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
-},
-]
-},
-]
-}
+
+{
+"name":"bein3",
+"image":"https://dookeela4.live/uploads/1663980670.png",
+"url":"https://love.jco5sjujta.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"tsp1",
+"image":"https://dookeela4.live/uploads/1664802455.png",
+"url":"https://dookeela4.live/live-tv/tsp1",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp2",
+"image":"https://dookeela4.live/uploads/1664499966.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776191&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp3",
+"image":"https://dookeela4.live/uploads/1664802480.png",
+"url":"https://dookeela4.live/live-tv/tsp3",
+"referer": "https://dookeela.live/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"tsp7",
+"image":"https://dookeela4.live/uploads/1664802480.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776196&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"SportTV1",
+"image":"https://archive.org/download/sport-tv-logo/SportTV-logo.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776196&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"SportTV2",
+"image":"https://archive.org/download/sport-tv-logo/SportTV-logo.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776068&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"True Tennis",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"Golf Plus",
+"image":"https://golfplus.co.th/wp-content/uploads/2021/05/unnamed-removebg-preview.png",
+"url":"http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"ESPN1",
+"image":"https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url":"http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61341&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"ESPN2",
+"image":"https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"url":"http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61342&extension=m3u8",
+"referer": "http://v3tv.live:80/play/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"bein1",
+"image":"https://ball67.com/assets/channels-logo/bein1.png",
+"url":"https://ball67.com/channels/bein1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"bein2",
+"image":"https://ball67.com/assets/channels-logo/bein2.png",
+"url":"https://ball67.com/channels/bein2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"bein2",
+"image":"https://ball67.com/assets/channels-logo/bein2.png",
+"url":"https://ball67.com/channels/bein2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{
+"name":"truesports1",
+"image":"https://ball67.com/assets/channels-logo/truesport1.png",
+"url":"https://ball67.com/channels/truesports1/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"truesports2",
+"image":"https://ball67.com/assets/channels-logo/truesport2.png",
+"url":"https://ball67.com/channels/truesports2/",
+"referer": "https://ball67.com/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"แข่งรถ F1",
+"image":"https://static.amarintv.com/media/PJVlR0ljpN9mLUt9n6UsSZL8HvHUcO1Q6K3SIJDZPqkmW3oOecDvFUXZKOCbZdyhZL.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Famg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv%2Fplaylist1080p.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"บอลโลก ctsport",
+"image":"https://cdn.aptoide.com/imgs/6/a/9/6a9d6294be85d251de1c330f2800763e_fgraphic.png",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=http%3A%2F%2F88.212.15.19%2Flive%2Ftest_ctsport_25p%2Fplaylist.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"กีฬาต่างประเทศ bein-xtra-bein",
+"image":"https://mms.businesswire.com/media/20200309005292/en/778436/5/4282070_beIN_SPORTS_XTRA.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fbein-xtra-bein.amagi.tv%2FplaylistR1080p.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"ตีกอล์ฟ golf_channel",
+"image":"https://topgolfthailand.com/wp-content/uploads/2023/08/blog4.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fdash4.antik.sk%2Flive%2Ftest_golf_channel%2Fplaylist.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"มวยต่างประเทศ fightbox",
+"image":"https://cdn.onefc.com/wp-content/uploads/sites/5/2019/11/Nong-O-Gaiyanghadao-VS-Saemapetch-Fairtex-at-ONE-EDGE-OF-GREATNESS-ALX_4491.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fwebtvstream.bhtelecom.ba%2Fhls7%2Ffightbox.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"เบสบอล MLB ",
+"image":"https://www.marumura.com/wp-content/uploads/2024/12/Japanese-Baseball-Players-to-MLB-2.jpeg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Fpb-2y9ox4r1fy550.akamaized.net%2Fplaylist_1280x720.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+
+{
+"name":"เทสนิส tennis ",
+"image":"https://storage.googleapis.com/fastwork-asset/subcategory_images/th/cover/tutor/tennis-training.jpg",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Famg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv%2Fts-eu-w1-n2%2Fplaylist%2Famg01444-tennischannelth-tennischannelnl-samsungnl%2Fcb56391e6573639092cc2164d1f162aca65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c38a7781f50aa0f1485774e2580b84c45d46cb328484bb10b3e1b31dfef58f97403c3d30c8d2c4b359ce74901aca192ad776f80c34c9e9abf04018d38b1d25819d17a06c5aa78fbaa6d9b1d0096ac69bb08ae56d9cae0fa8e45c0dfc23283698af2a499400ffea16a9bcb48a4d4d81a512cf3b5246c37d082e996783594404a52f1fe81d80f9a419ed871d8327dd388ff3ee728e12fe2ef84c137e0ae35e5607f0a0484c4026dd0c4ad8fe93c30bc29d5a7fee24a738bfd2e782d9540d73822349cfc8441ca9355de812a8bb0660a2b80bf71dbcce2cdbfebcd7d952b9c93afd825141a2a4423964dae9f5ade2bf671bc8146720b0317fbe820aeecee573e664091931e854369def5bfc38e5e759a1a72188f44dc480e78c324661fb47aaa7a5dad3aebb8e313f0ff036860bdb717c208d72a5aea8a%2F173%2F1920x1080_5288800%2Findex.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+
+{
+"name":"เทสนิส tennis Super ",
+"image":"https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
+"url":"https://fernntv.dpdns.org/api/iptv-proxy?url=https%3A%2F%2Flive-embed.supertennix.hiway.media%2Frestreamer%2Fsupertennix_client%2Fgpu-a-c0-16%2Frestreamer%2Foutgest%2Faa3673f1-e178-44a9-a947-ef41db73211a%2Faudio_manifest.m3u8",
+"referer": "https://fernntv.dpdns.org/&userAgent=exo_player",
+"info":"(อัพเดท/5/2/26) by neti",
+"embed": "",
+"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
