@@ -1,3 +1,5 @@
+{"name": "test","image":"https://raw.githubusercontent.com/tummeng21/logo/main/digital.png","stations": [
+
 {
   "name": "สด..มั้ง บอลโลก มีภาพตอนแข่ง",
   "image": "https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/videoframe.png",
@@ -612,4 +614,6 @@
   "embed": "",
   "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
   "playInNatPlayer": "true"
+}
+]
 }
