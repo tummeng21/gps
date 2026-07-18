@@ -1,54 +1,74 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่อง SPORTS - 2",TRUE Sport 1 (สำรอง)
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts2.png" group-title="ช่อง SPORTS - 2",TRUE Sport 2 (สำรอง)
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts3.png" group-title="ช่อง SPORTS - 2",TRUE Sport 3 (สำรอง)
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3
 #EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts5.png" group-title="ช่อง SPORTS - 2",TRUE Sport 5 (สำรอง)
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd5
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts7.png" group-title="ช่อง SPORTS - 2",TRUE Sport 7 (สำรอง)
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_1.png" group-title="ช่อง SPORTS - 2",SPOTV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/spotv_2.png" group-title="ช่อง SPORTS - 2",SPOTV 2
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH1.png" group-title="ช่อง SPORTS - 2",True beIN Sports 1
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH2.png" group-title="ช่อง SPORTS - 2",True beIN Sports 2
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/beinTH3.png" group-title="ช่อง SPORTS - 2",True beIN Sports 3
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono
 #EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่อง SPORTS - 2",Monomax 1 
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่อง SPORTS - 2",Monomax 2
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 2",MUTV
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=mutv
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่อง SPORTS - 2",🏌️‍♂️ Golf Channel TH
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=golf2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup K-168
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",MONOMAX SPORTS29
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/908/245/non_2x/live-streaming-badge-in-isometric-logo-free-png.png" group-title="ช่องกีฬาถ่ายทอดสด",MotoGP ถ่ายทอดสด
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=spotv2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Monomax-Sports.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX SPORTS29
+#EXTVLCOPT:http-referrer=https://dookeela4.live
 http://api.plus-server.sbs/play.php?key=1234&ch=mono29
